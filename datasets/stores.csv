@@ -1,0 +1,42 @@
+store_id,store_name,store_format,city,state,region,zip_code,open_date,store_size_sqft,num_employees,monthly_rent_usd,store_manager,is_active,phone
+STR-0001,MegaMart New York,Flagship,New York,NY,Northeast,59906,2006-10-01,51871,255,41022.54,Bob Johnson,1,(457) 946-7276
+STR-0002,MegaMart Los Angeles,Outlet,Los Angeles,CA,West,99693,2017-02-01,168556,521,33922.88,David Chen,1,(582) 597-4483
+STR-0003,MegaMart Chicago,Superstore,Chicago,IL,Midwest,70487,2005-10-01,93816,104,142294.56,Isabel Torres,1,(893) 993-2438
+STR-0004,MegaMart Houston,Flagship,Houston,TX,Southwest,51468,2012-01-01,75621,591,6104.87,David Chen,1,(571) 747-2324
+STR-0005,MegaMart Phoenix,Flagship,Phoenix,AZ,Southwest,77981,2006-10-01,126294,72,56841.11,David Chen,1,(932) 364-8237
+STR-0006,MegaMart Philadelphia,Outlet,Philadelphia,PA,,33281,2016-11-01,51143,57,20919.9,Carol White,1,(685) 900-7865
+STR-0007,MegaMart San Antonio,Hypermarket,San Antonio,TX,Southwest,65760,2002-03-01,86214,652,5821.85,Frank Miller,1,(339) 735-7640
+STR-0008,MegaMart San Diego,Superstore,San Diego,CA,West,17261,2006-08-01,72522,578,63589.81,Carol White,1,(562) 911-8801
+STR-0009,MegaMart Dallas,Hypermarket,Dallas,TX,Southwest,27160,2019-12-01,44436,642,141477.39,Bob Johnson,1,(298) 321-3353
+STR-0010,MegaMart San Jose,Express,San Jose,CA,West,32824,2005-07-01,43144,232,132662.45,Frank Miller,1,(989) 711-4832
+STR-0011,MegaMart Austin,Express,Austin,TX,Southwest,25363,2011-03-01,182818,94,77678.76,Alice Brown,1,(799) 248-6528
+STR-0012,MegaMart Jacksonville,Superstore,Jacksonville,FL,Southeast,59410,2012-06-01,220578,428,60961.3,Frank Miller,1,(747) 294-3969
+STR-0013,MegaMart Fort Worth,Hypermarket,Fort Worth,TX,Southwest,58889,2012-08-01,-9999,338,128769.4,David Chen,1,(869) 937-6089
+STR-0014,MegaMart Columbus,Hypermarket,Columbus,OH,Midwest,51147,2006-12-01,181762,748,41209.48,Elena Garcia,1,(648) 969-2312
+STR-0015,MegaMart Charlotte,Flagship,Charlotte,NC,Southeast,65195,2008-02-01,136897,320,136544.82,Frank Miller,1,(688) 746-3085
+STR-0016,MegaMart Indianapolis,Express,Indianapolis,IN,Midwest,66481,2009-07-01,177547,645,28115.87,Grace Kim,1,(894) 894-8209
+STR-0017,MegaMart San Francisco,Superstore,San Francisco,CA,West,59784,2010-04-01,95539,24,101723.89,Elena Garcia,1,(397) 880-3812
+STR-0018,MegaMart Seattle,Convenience,Seattle,WA,West,44207,2013-12-01,202302,743,38529.31,Frank Miller,1,(872) 609-1059
+STR-0019,MegaMart Denver,Hypermarket,Denver,CO,West,75753,2017-04-01,5338,554,50027.54,Carol White,1,(723) 654-4363
+STR-0020,MegaMart Nashville,Express,Nashville,TN,Southeast,64635,2014-09-01,144206,661,94871.55,Elena Garcia,1,(405) 956-1337
+STR-0021,MegaMart Oklahoma City,Hypermarket,Oklahoma City,OK,Central,50304,2002-10-01,13378,79,65432.08,Frank Miller,1,(770) 841-5836
+STR-0022,MegaMart El Paso,Superstore,El Paso,TX,Southwest,23121,2012-07-01,211896,196,43396.28,Frank Miller,1,(331) 333-8316
+STR-0023,MegaMart Boston,Convenience,Boston,MA,Northeast,60989,2013-09-01,192444,203,57176.68,David Chen,1,(480) 674-7269
+STR-0024,MegaMart Portland,Superstore,Portland,OR,West,72806,2018-11-01,238115,507,101426.76,Bob Johnson,1,(744) 445-8534
+STR-0025,MegaMart Memphis,Outlet,Memphis,TN,Southeast,12020,2003-06-01,213735,525,15460.91,Alice Brown,1,(783) 896-9732
+STR-0026,MegaMart Louisville,Express,Louisville,KY,Southeast,93035,2000-10-01,88646,443,42922.92,Carol White,1,(802) 248-7508
+STR-0027,MegaMart Baltimore,Hypermarket,Baltimore,MD,Northeast,16259,2010-09-01,65281,588,114550.25,Carol White,1,(649) 258-7843
+STR-0028,MegaMart Milwaukee,Superstore,Milwaukee,WI,Midwest,34704,2003-08-01,50046,299,44946.18,Frank Miller,1,(272) 773-4247
+STR-0029,MegaMart Albuquerque,Outlet,Albuquerque,NM,Southwest,32759,2011-11-01,218700,567,16812.14,Bob Johnson,1,(942) 328-3243
+STR-0030,MegaMart Tucson,Superstore,Tucson,AZ,Southwest,81476,2002-01-01,204015,545,98758.77,Carol White,1,(562) 934-4793
+STR-0031,MegaMart Atlanta,Outlet,Atlanta,GA,Southeast,89726,2019-03-01,94153,74,134497.26,Grace Kim,1,(392) 514-3942
+STR-0032,MegaMart Miami,Convenience,Miami,FL,Southeast,24566,2004-08-01,173532,553,110950.33,Alice Brown,1,(436) 585-2588
+STR-0033,MegaMart Detroit,Superstore,Detroit,MI,Midwest,84284,2014-12-01,212863,636,131758.45,Bob Johnson,1,(365) 370-8273
+STR-0034,MegaMart Minneapolis,Express,Minneapolis,MN,Midwest,43161,2010-10-01,16953,618,62496.35,Elena Garcia,1,(362) 335-1184
+STR-0035,MegaMart Cleveland,Express,Cleveland,OH,Midwest,82876,2009-05-01,37402,524,66986.98,Bob Johnson,1,(241) 562-3686
+STR-0036,MegaMart Orlando,Outlet,Orlando,FL,Southeast,99594,2010-06-01,179061,354,121795.84,Alice Brown,1,(585) 477-4713
+STR-0037,MegaMart Tampa,Outlet,Tampa,FL,Southeast,29758,2000-05-01,198711,429,65769.52,David Chen,1,(378) 736-7656
+STR-0038,MegaMart Pittsburgh,Hypermarket,Pittsburgh,PA,Northeast,37808,2007-11-01,73106,187,127315.32,Bob Johnson,1,(645) 204-1470
+STR-0039,MegaMart Cincinnati,Superstore,Cincinnati,OH,Midwest,27269,2005-11-01,83766,82,148434.26,Elena Garcia,1,(387) 793-8055
+STR-0040,MegaMart Kansas City,Superstore,Kansas City,MO,Central,10422,2001-09-01,108763,476,15733.23,David Chen,1,(549) 645-3164
+STR-0001,MegaMart New York,Flagship,New York,NY,Northeast,59906,2006-10-01,51871,255,41022.54,Bob Johnson,1,(457) 946-7276
